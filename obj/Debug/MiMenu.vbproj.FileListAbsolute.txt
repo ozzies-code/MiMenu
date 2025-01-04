@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\MiMenu\bin\Debug\MiMenu.exe.config
+C:\Users\oswal\source\repos\MiMenu\bin\Debug\MiMenu.exe
+C:\Users\oswal\source\repos\MiMenu\bin\Debug\MiMenu.pdb
+C:\Users\oswal\source\repos\MiMenu\bin\Debug\MiMenu.xml
+C:\Users\oswal\source\repos\MiMenu\obj\Debug\MiMenu.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\MiMenu\obj\Debug\MiMenu.Form1.resources
+C:\Users\oswal\source\repos\MiMenu\obj\Debug\MiMenu.Resources.resources
+C:\Users\oswal\source\repos\MiMenu\obj\Debug\MiMenu.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\MiMenu\obj\Debug\MiMenu.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\MiMenu\obj\Debug\MiMenu.exe
+C:\Users\oswal\source\repos\MiMenu\obj\Debug\MiMenu.xml
+C:\Users\oswal\source\repos\MiMenu\obj\Debug\MiMenu.pdb
